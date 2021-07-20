@@ -38,7 +38,3 @@ ld -o file file.o path/to/libclosey.a
 
 ## Progress
 See TODO.md. Everything is highly experimental. Be cautious: code may be explosive.
-
-## Support
-Come to the [official discord server!](https://discord.gg/Gxfr6JDecv)
-
